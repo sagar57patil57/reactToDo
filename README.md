@@ -1,4 +1,4 @@
-<h1>Better Version Of TodoApp (in progress)</h1>
+<h1>Better Version Of TodoApp (Progressive WepApp Version c.Soon)</h1>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
